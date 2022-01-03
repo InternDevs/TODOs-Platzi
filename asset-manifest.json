@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TODOs-Platzi/static/css/main.1f4fe605.chunk.css",
-    "main.js": "/TODOs-Platzi/static/js/main.f771e6ef.chunk.js",
-    "main.js.map": "/TODOs-Platzi/static/js/main.f771e6ef.chunk.js.map",
+    "main.js": "/TODOs-Platzi/static/js/main.9f9f9dba.chunk.js",
+    "main.js.map": "/TODOs-Platzi/static/js/main.9f9f9dba.chunk.js.map",
     "runtime-main.js": "/TODOs-Platzi/static/js/runtime-main.3874a22b.js",
     "runtime-main.js.map": "/TODOs-Platzi/static/js/runtime-main.3874a22b.js.map",
     "static/js/2.657a4f5f.chunk.js": "/TODOs-Platzi/static/js/2.657a4f5f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3874a22b.js",
     "static/js/2.657a4f5f.chunk.js",
     "static/css/main.1f4fe605.chunk.css",
-    "static/js/main.f771e6ef.chunk.js"
+    "static/js/main.9f9f9dba.chunk.js"
   ]
 }
