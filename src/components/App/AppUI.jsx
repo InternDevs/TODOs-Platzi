@@ -28,7 +28,7 @@ function AppUI(){
             <TodoList>
                 {loading && <p>Estamos cargando, no desesperes...</p>}
                 {error && <p>Entra en panico, no cargo O.o</p>}
-                {(searchedTodos.length === 0 && !loading) && <p>No lo pudimos encontrar   T . T</p>}
+                {(searchedTodos.length === 0 && !loading && searchValue.length >= 1) && <p>No lo pudimos encontrar   T . T</p>}
                 {(!loading && !searchedTodos.length && !error && !searchValue) && <p>Crea tu primer TODO ^^</p>}
 
                 {searchedTodos.map( todo => (
